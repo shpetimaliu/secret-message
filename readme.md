@@ -60,7 +60,7 @@ Ky është një projekt i thjeshtë që ju lejon të shpërndani mesazhe të kod
 ## Teknologjit e përdorura
 
 - Javascript
-- Materialize css
+- Materialize CSS
 
 ## Përshkrimi i Projektit
 
